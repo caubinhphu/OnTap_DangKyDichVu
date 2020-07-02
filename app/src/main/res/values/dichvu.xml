@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dichvu">
+        <item>Truyền hình cap</item>
+        <item>Mạng không dây</item>
+        <item>Mạng có dây</item>
+        <item>MyTV</item>
+    </string-array>
+</resources>
